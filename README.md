@@ -111,4 +111,4 @@ retail-sales-sql-analysis/
 
 **Satish Sherikar**
 Aspiring Data Analyst | SQL, Python, Power BI, Tableau, Excel
-LinkedIn: _add your link here_
+LinkedIn: https://www.linkedin.com/in/satish-sherikar-242a38268
