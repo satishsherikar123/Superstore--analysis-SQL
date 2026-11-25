@@ -96,12 +96,12 @@ Total loss from loss-making records by region:
 retail-sales-sql-analysis/
 ├── README.md
 ├── queries.sql        # all 25 SQL queries
-└── superstore.csv     # dataset
+└── superstore.zip     # dataset (unzip before importing)
 ```
 
 ## How to Run
 
-1. Create a database and import the dataset into a table named `store`.
+1. Unzip `superstore.zip`, create a database, and import the CSV into a table named `store`.
 2. Open `queries.sql` in MySQL Workbench, DBeaver or any SQL client.
 3. Run the queries one by one (each is numbered and commented).
 
